@@ -11,7 +11,7 @@ mood. Below is a summary of the features of KATI-LLAMA.
 
 
 [![GitHub release (with filter)](https://img.shields.io/github/downloads/hswlab/kati-llama/total?style=for-the-badge&logo=ChatBot&label=download%20KATI-LLAMA
-)](https://github.com/hswlab/kati/releases/latest)
+)](https://github.com/hswlab/kati-llama/releases/latest)
 
 
 *Key features of KATI:*
