@@ -55,18 +55,18 @@ mood. Below is a summary of the features of KATI-LLAMA.
 # Performance issues
 - Depending on the model configured, more or 
 less RAM and processor power are required. 
-This can affect the performance of the AI's responses. Try a smaller model and see if the AI 
+This can affect the performance of the AI's responses. Try a smaller model and see if the AI 
 responds faster. Keep in mind that the smaller 
-the model, the lower the quality of the responses.
+the model, the lower the quality of the responses.
 - Slow output may also be due to the configured 
 processor setting. AVX is very slow, but it is 
 mostly supported by older processors. With 
 AVX2, the latency is significantly lower, but not 
 all processors support it. Try chatting with 
 AVX2 to see if it works for you.
-- If the read-aloud function is enabled, the program waits to output until a complete sentence is available. To minimize the response 
+- If the read-aloud function is enabled, the program waits to output until a complete sentence is available. To minimize the response 
 time, you can disable the audio output, then 
-the response text will be streamed without interruption. 
+the response text will be streamed without interruption. 
 - The AI sometimes takes longer to answer in 
 general if it finds little information about a 
 question. In this case, you can try to cancel the 
