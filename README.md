@@ -25,11 +25,11 @@ mood. Below is a summary of the features of KATI-LLAMA.
 - [X] Text and code are formatted for better readability.
 - [X] Multilingual user interface (DE, EN, FR, ES, PT, JA, KO)
 
-![preview](https://github.com/hswlab/kati/blob/main/Screenshot.png)
+![preview](https://github.com/hswlab/kati-llama/blob/main/Screenshot.png)
 
-![preview2](https://github.com/hswlab/kati/blob/main/Screenshot2.png)
+![preview2](https://github.com/hswlab/kati-llama/blob/main/Screenshot2.png)
 
-![preview3](https://github.com/hswlab/kati/blob/main/Screenshot3.png)
+![preview3](https://github.com/hswlab/kati-llama/blob/main/Screenshot3.png)
 
 # Nuget packages and associated licenses used in KATI
 - LLamaSharp <a href="https://licenses.nuget.org/MIT">`MIT License`</a>
