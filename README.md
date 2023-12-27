@@ -31,6 +31,13 @@ mood. Below is a summary of the features of KATI-LLAMA.
 
 ![preview3](https://github.com/hswlab/kati-llama/blob/main/Screenshot3.png)
 
+# Demonstration of how to install and use KATI-LLAMA (German)
+[![KATI-LLAMA](https://i9.ytimg.com/vi/rMKaL4mhw5A/mq2.jpg?sqp=CMT1sKwG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGD4gTShyMA8=&rs=AOn4CLBonb_d-FqGfQk-LnXJJk7A4HSR6w)](https://youtu.be/rMKaL4mhw5A)
+
+# Demonstration of how to use STT in KATI-LLAMA (German)
+[![STT in KATI-LLAMA](https://i9.ytimg.com/vi_webp/N8AAO0Dv5gc/mq2.webp?sqp=CMDusKwG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBuqrBwb_HC_vhL0HQY7MDcR5s23A)](https://youtu.be/N8AAO0Dv5gc?si=fwluaWGYE48Juv7D)
+
+
 # Nuget packages and associated licenses used in KATI
 - LLamaSharp <a href="https://licenses.nuget.org/MIT">`MIT License`</a>
 - ElectronNET.API <a href="https://licenses.nuget.org/MIT">`MIT License`</a>
