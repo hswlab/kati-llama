@@ -31,11 +31,9 @@ mood. Below is a summary of the features of KATI-LLAMA.
 
 ![preview3](https://github.com/hswlab/kati-llama/blob/main/Screenshot3.png)
 
-# Demonstration of how to install and use KATI-LLAMA (German)
-[![KATI-LLAMA](https://i9.ytimg.com/vi/rMKaL4mhw5A/mqdefault.jpg?sqp=CLSFs6wG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD8gTyhyMA8=&rs=AOn4CLDSRSRPlQz3gFHdg-yOpbGs6K2gLQ)](https://youtu.be/rMKaL4mhw5A)
-
-# Demonstration of how to use STT in KATI-LLAMA (German)
-[![STT in KATI-LLAMA](https://i9.ytimg.com/vi/N8AAO0Dv5gc/mqdefault.jpg?sqp=CLSFs6wG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAhKQ-OBmjqAJQ0rXoj2De7C1QACQ)](https://youtu.be/N8AAO0Dv5gc?si=fwluaWGYE48Juv7D)
+# Demonstration Video
+- [Demonstration of how to install and use KATI-LLAMA (German)](https://youtu.be/rMKaL4mhw5A)
+- [Demonstration of how to use STT in KATI-LLAMA (German)](https://youtu.be/N8AAO0Dv5gc)
 
 
 # Nuget packages and associated licenses used in KATI
